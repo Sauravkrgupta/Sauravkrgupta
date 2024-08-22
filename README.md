@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurav
 - 👀 I’m interested in learning in public and help people.
-- 🌱 I know Cpp, C, Java, basic DSA, 
+- 🌱 I know Cpp, C, Java, basic DSA. 
 - 💞️ I’m looking to collaborate on OpenSource.
 - 📫 How to reach me ..you can reach me in Telegram -> @Sauravkumar123456, Email -> sauravkumar.4793@gmail.com
 - 😄 Pronouns: He/Him. 
